@@ -152,6 +152,14 @@ function shock () {
     led.plotBrightness(1, 1, 0)
     led.plotBrightness(1, 1, 0)
     basic.pause(100)
+    basic.showLeds(`
+        # . . . #
+        . # . # .
+        # . . . #
+        . . . . .
+        . # # # .
+        `)
+    basic.pause(2000)
     _shake = 0
     // 重启一下以免爆内存系统崩溃
     control.reset()
