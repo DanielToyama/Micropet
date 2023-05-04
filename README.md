@@ -25,7 +25,18 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/jswnlinyu/micropet/raw/master/.github/makecode/blocks.png)
 
-#### 元数据（用于搜索、渲染）
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+#### 开始与你的小可爱玩耍吧！
+首先开机
+你的小可爱有些无聊，按下a键使他高兴起来！
+轻轻摇晃他，他会很开心的！
+用力甩动他，让他吓一大跳！
+按下b，他会睁大眼睛！
+不要长时间不理人家哦，不然他又要不开心了qwq
+
+
+
+
+
+
+
