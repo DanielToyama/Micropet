@@ -1,6 +1,4 @@
 
-> 在 [https://jswnlinyu.github.io/micropet/](https://jswnlinyu.github.io/micropet/) 打开此页面
-
 ## 用作扩展
 
 此仓库可以作为 **插件** 添加到 MakeCode 中。
@@ -10,23 +8,14 @@
 * 点击齿轮图标菜单下的 **扩展**
 * 搜索 **https://github.com/jswnlinyu/micropet** 并导入
 
-## 编辑此项目 ![Build status badge](https://github.com/jswnlinyu/micropet/workflows/MakeCode/badge.svg)
-
+## 编辑此项目
 在 MakeCode 中编辑此仓库。
 
 * 打开 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 点击 **导入**，然后点击 **导入 URL**
 * 粘贴 **https://github.com/jswnlinyu/micropet** 并点击导入
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/jswnlinyu/micropet/raw/master/.github/makecode/blocks.png)
-
-
-#### 开始与你的小可爱玩耍吧！
+### 开始与你的小可爱玩耍吧！
 * 首先开机
 * 你的小可爱有些无聊，按下a键使他高兴起来！
 * 轻轻摇晃他，他会很开心的！
