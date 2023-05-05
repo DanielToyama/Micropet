@@ -18,14 +18,6 @@
 
 >>下面提供了一些方法使你对你的小可爱进行修改
 
-## 用作扩展
-
-此仓库可以作为 **插件** 添加到 MakeCode 中。
-
-* 打开 [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* 点击 **新项目**
-* 点击齿轮图标菜单下的 **扩展**
-* 搜索 **https://github.com/jswnlinyu/micropet** 并导入
 
 ## 编辑此项目
 在 MakeCode 中编辑此仓库。
