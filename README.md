@@ -25,7 +25,7 @@
 
 * 打开 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 点击 **导入**，然后点击 **导入 URL**
-* 粘贴 **https://github.com/jswnlinyu/micropet** 并点击导入
+* 粘贴 **https://github.com/DanielToyama/micropet** 并点击导入
 
 
 
